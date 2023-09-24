@@ -1,0 +1,20 @@
+.note {
+    font-family: Arial !important;
+    font-size: 20px !important;
+}
+
+.heading {
+    margin: 0px;
+    width: 100%;
+    border-radius: 0;
+}
+
+.footer {
+    position: fixed;
+    background-color: black;
+    bottom: 0;
+    color: whitesmoke;
+    width: 100%;
+    line-height: 2;
+    text-align: center;
+}
